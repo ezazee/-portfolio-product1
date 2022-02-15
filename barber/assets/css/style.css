@@ -7260,3 +7260,9 @@ del {
      flex-wrap: wrap;
  }
 
+ @media only screen and (max-width: 425px){
+    .card-barber{
+        padding: 40px;
+    }
+
+}
